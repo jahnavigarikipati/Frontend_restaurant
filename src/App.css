@@ -1,0 +1,314 @@
+#bg {
+  background: url("https://www.restaurantinteriordesign.eu/wp-content/uploads/2018/03/Restaurant-Interior-Design-Ideas-%E2%80%93-the-best-StoneHill-Taylor-projects.jpg")
+    no-repeat center center fixed #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.box {
+  padding: 5px;
+  border: 1px solid white;
+  font-family: Brush Script MT, cursive;
+  display: inline-block;
+  margin: 11% 0% 0% 0%;
+}
+
+#abc {
+  padding: 10px 70px 10px 70px;
+}
+
+.button {
+  background-color: #4c7aaf;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.buttonn {
+  background-color: #f0f1f3;
+  border: none;
+  color: black;
+  padding: 5px 10px 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+.button1 {
+  border-radius: 50px;
+}
+footer {
+  height: 100px;
+  bottom: 0px;
+  width: 100%;
+  padding: 3% 0% 0% 0%;
+}
+#carttitle,
+#cartprice,
+#cartquantity {
+  font-family: Harry Potter;
+  font-size: x-large;
+}
+
+#body1 {
+  background-color: rgb(8, 51, 71);
+  padding: -100% 0% -100% 0%;
+  margin: 0% 0% -10% 0%;
+}
+#menubtn {
+  background-color: rgb(8, 51, 71);
+  color: burlywood;
+  border: 1px solid burlywood;
+  border-radius: 3px;
+  text-align: center;
+}
+#menubtn:hover {
+  background-color: burlywood;
+  color: rgb(8, 51, 71);
+}
+
+#menucard:hover {
+  background-color: burlywood;
+  color: rgb(8, 51, 71);
+}
+#menucard {
+  border: none;
+  background-color: rgb(8, 51, 71);
+  color: burlywood;
+  margin: auto;
+  padding-bottom: 1%;
+  height: 310px;
+  width: 250px;
+}
+#btn1 {
+  background-color: rgb(8, 51, 71);
+  color: burlywood;
+  margin: 0px 3px 0px 3px;
+  border: 1px solid burlywood;
+}
+#btn1:hover {
+  background-color: burlywood;
+  color: rgb(8, 51, 71);
+
+  border: 1px solid rgb(8, 51, 71);
+}
+#img1 {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+}
+
+#imgstarters:hover {
+  opacity: 0.5;
+}
+
+#startersbtn {
+  background-color: rgb(8, 51, 71);
+  color: burlywood;
+  padding: 1% 18% 1% 18%;
+  margin: 1% 2% 1% 2%;
+  border: 1px solid burlywood;
+  font-size: 50%;
+}
+
+#startersbtn:hover {
+  background-color: burlywood;
+  color: rgb(8, 51, 71);
+  padding: 1% 18% 1% 18%;
+  margin: 1% 2% 1% 2%;
+  border: 1px solid burlywood;
+  font-size: 50%;
+}
+
+#imgstarters {
+  margin: 1% 10% 1% 10%;
+  opacity: 1;
+  width: 80%;
+  height: 100%;
+  display: block;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+#startersmiddle {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#starterscontainer:hover .image11 {
+  opacity: 0.3;
+}
+
+#starterscontainer:hover .middle {
+  opacity: 1;
+}
+
+#starterstext {
+  background-color: rgb(8, 51, 71);
+  color: white;
+  font-size: 42%;
+  padding: 3% 3%;
+  font-weight: lighter;
+}
+#starterscontainerfluid {
+  padding: 1% 5% 0% 5%;
+}
+#startersrow {
+  padding: 0% 5% 0% 5%;
+}
+#startersmore {
+  font-family: Brush Script MT, cursive;
+  color: burlywood;
+  font-size: 70%;
+  padding: 0% 7% 0% 7%;
+  margin: -100% 7% -100% 7%;
+}
+.cart-header {
+  font-weight: bold;
+  font-size: 1.25em;
+  color: burlywood;
+}
+
+.cart-column {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+  margin-right: 1.5em;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+
+.cart-row {
+  display: flex;
+}
+
+.cart-item {
+  width: 45%;
+}
+
+.cart-price {
+  width: 20%;
+  font-size: 1.2em;
+  color: burlywood;
+}
+
+.cart-quantity {
+  width: 35%;
+}
+
+.cart-item-title {
+  color: burlywood;
+  margin-left: 0.5em;
+  font-size: 1.2em;
+}
+
+.cart-item-image {
+  width: 75px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.btn-danger {
+  color: white;
+  background-color: #eb5757;
+  border: none;
+  border-radius: 0.3em;
+  font-weight: bold;
+}
+
+.btn-danger:hover {
+  background-color: #cc4c4c;
+}
+
+.cart-quantity-input {
+  height: 34px;
+  width: 50px;
+  border-radius: 5px;
+  border: 1px solid #56ccf2;
+  background-color: #eee;
+  color: #333;
+  padding: 0;
+  text-align: center;
+  font-size: 1.2em;
+  margin-right: 25px;
+}
+
+.cart-row:last-child {
+  border-bottom: 1px solid black;
+}
+
+.cart-row:last-child .cart-column {
+  border: none;
+}
+
+.cart-total {
+  text-align: end;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.cart-total-title {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: black;
+  margin-right: 20px;
+}
+
+.cart-total-price {
+  color: burlywood;
+  font-size: 1.1em;
+}
+#cart1 {
+  padding-right: 7%;
+  display: flex;
+}
+#del {
+  text-decoration-line: line-through;
+  -webkit-transform: skewY(-10deg);
+  transform: skewY(-50deg);
+}
+
+.cross {
+  position: relative;
+  display: inline-block;
+}
+.cross::before,
+.cross::after {
+  content: "";
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.cross::before {
+  border-bottom: 2px solid green;
+  -webkit-transform: skewY(-10deg);
+  transform: skewY(-10deg);
+}
+.cross::after {
+  border-bottom: 2px solid blue;
+  -webkit-transform: skewY(10deg);
+  transform: skewY(10deg);
+}
