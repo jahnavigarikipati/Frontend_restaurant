@@ -6,60 +6,60 @@ function Beverages() {
     const softdrinks=[
         {
             id:41,
-            title:"Mushroom Soup",
+            title:"Coca Cola",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Coca Cola.jpg",
             
         },
         {
             id:42,
-            title:"Veg Manchurian",
+            title:"Rose Milk",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Rose Milk.jpg",
             
         },
         {
             id:43,
-            title:"Panneer 65",
+            title:"Lemon juice",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Lemon juice.jpg",
             
         },
         {
             id:44,
-            title:"Gobi 65",
+            title:"Coconut smoothie",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Coconut smoothie.jpg",
             
         },
     ];
     const harddrinks=[
         {
             id:45,
-            title:"Chicken Lollipop",
+            title:"Carlsberg",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/carlsberg.jpg",
             
         },
         {
             id:46,
-            title:"Omlette",
+            title:"King Fisher",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/King Fisher.jpg",
             
         },
         {
             id:47,
-            title:"Meat Balls",
+            title:"McDowells",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/McDowells-No.1.jpg",
             
         },
         {
             id:48,
-            title:"Prawn Fry",
+            title:"Mojito",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Mojito.jpg",
             
         },
 

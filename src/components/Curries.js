@@ -6,60 +6,60 @@ function Curries() {
     const vcurries=[
         {
             id:9,
-            title:"Mushroom Soup",
+            title:"Mixed Veg Curry",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mixed-vegetable-curry.jpg",
             
         },
         {
             id:10,
-            title:"Veg Manchurian",
+            title:"Mushroom Masala",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mushroom masala.jpg",
             
         },
         {
             id:11,
-            title:"Panneer 65",
+            title:"Palak Panner ",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/palak panner.jpg",
             
         },
         {
             id:12,
-            title:"Gobi 65",
+            title:"Chana Masala",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/easychanamasalabowlfront-1 (1).jpg",
             
         },
     ];
     const nvcurries=[
         {
             id:13,
-            title:"Chicken Lollipop",
+            title:"Chicken Curry",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/chicken-curry.jpg",
             
         },
         {
             id:14,
-            title:"Omlette",
+            title:"Egg Curry",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/egg curry.jpg",
             
         },
         {
             id:15,
-            title:"Meat Balls",
+            title:"Fish Pulusu",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Fish Pulusu.jpg",
             
         },
         {
             id:16,
-            title:"Prawn Fry",
+            title:"Keema Curry",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mutton-keema.jpg",
             
         },
 

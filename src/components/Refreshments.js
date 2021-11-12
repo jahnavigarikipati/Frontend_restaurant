@@ -6,60 +6,60 @@ function Refreshments() {
     const icecreams=[
         {
             id:49,
-            title:"Mushroom Soup",
+            title:"Chocolate Icecream",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Chocolate ice cream.jpg",
             
         },
         {
             id:50,
-            title:"Veg Manchurian",
+            title:"Vannila Icecream",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Vannila Ice cream.jpg",
             
         },
         {
             id:51,
-            title:"Panneer 65",
+            title:"Strawberry Icecream",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Strawberry Ice cream (1).jpg",
             
         },
         {
             id:52,
-            title:"Gobi 65",
+            title:"Butterscotch Icecream",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Butter-scotch-ice-cream.jpg",
             
         },
     ];
     const pastries=[
         {
             id:53,
-            title:"Chicken Lollipop",
+            title:"Blue Berry Cake",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/blue berry cake.jpg",
             
         },
         {
             id:54,
-            title:"Omlette",
+            title:"Mango Cake",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Mango cake.jpg",
             
         },
         {
             id:55,
-            title:"Meat Balls",
+            title:"Red Velvet",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Red velvet.jpg",
             
         },
         {
             id:56,
-            title:"Prawn Fry",
+            title:"Chocolate Cake",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Chocolate Cake.jpg",
             
         },
 

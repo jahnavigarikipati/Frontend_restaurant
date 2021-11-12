@@ -6,60 +6,60 @@ function Tandooris() {
     const vtandooris=[
         {
             id:25,
-            title:"Mushroom Soup ",
+            title:"Babycorn Tikka",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/babycorn tikka.jpg",
             
         },
         {
             id:26,
-            title:"Veg Manchurian ",
+            title:"Aloo Tikka",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/aloo tikka (1).jpg",
             
         },
         {
             id:27,
-            title:"Panneer 65 ",
+            title:"Cauliflower Tikka.",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/cauliflower tikka.jpg",
             
         },
         {
             id:28,
-            title:"Gobi 65 ",
+            title:"Paneer Tikka",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Paneer-Tikka-Tawa.jpg",
             
         },
     ];
     const nvtandooris=[
         {
             id:29,
-            title:"Chicken Lollipop ",
+            title:"Chicken Tikka",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/chicken tikka.jpg",
             
         },
         {
             id:30,
-            title:"Omlette ",
+            title:"Crab Tandoori",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Crab Tandoori.jpg",
             
         },
         {
             id:31,
-            title:"Meat Balls ",
+            title:"Fish Tikka",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/fish tikka.jpg",
             
         },
         {
             id:32,
-            title:"mojito",
+            title:"Prawns Tikka",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/prawns tikka (1).jpg",
             
         },
 

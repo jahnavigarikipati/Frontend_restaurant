@@ -6,60 +6,60 @@ function RiceItems() {
     const vriceitems=[
         {
             id:17,
-            title:"Mushroom Soup ",
+            title:"Panneer Pulao",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/paneer-pulao.jpg",
           
         },
         {
             id:18,
-            title:"Veg Manchurian ",
+            title:"Mushroom Biryani",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mushroom-biryani.jpg",
           
         },
         {
             id:19,
-            title:"Panneer 65 ",
+            title:"Curd Rice",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/curd-rice.jpg",
           
         },
         {
             id:20,
-            title:"Gobi 65 ",
+            title:"Veg Thali",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Veg Thali.jpg",
           
         },
     ];
     const nvriceitems=[
         {
             id:21,
-            title:"Chicken Lollipop ",
+            title:"Chicken Biryani",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Chicken Biryani.jpg",
           
         },
         {
             id:22,
-            title:"Omlette ",
+            title:"Egg Biryani",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Egg Biryani (1).jpg",
           
         },
         {
             id:23,
-            title:"Meat Balls ",
+            title:"Prawn Biryani",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Shrimp Biryani.jpg",
           
         },
         {
             id:24,
-            title:"Prawn Fry ",
+            title:"Fish Biryani",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/fish biryani.jpg",
           
         },
 
