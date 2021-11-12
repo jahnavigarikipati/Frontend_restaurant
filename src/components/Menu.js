@@ -9,47 +9,47 @@ function Menu() {
     const offers=[
         {
             id:57,
-            title:"Mushroom Soup",
+            title:"Mutton Dum Biryani with Beer",
             oldprice:19,
             price:15,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Beer+Image.jpg",
         },
         {
             id:58,
-            title:"Mushroom Soup",
+            title:"Fish Burger+French Fries with Coke",
             oldprice:19,
             price:15,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Burger+FrenchFries+Cola (1).jpg",
         },
         {
             id:59,
-            title:"Mushroom Soup",
+            title:"Veg Noodles+Chicken Manchuria",
             oldprice:19,
             price:15,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Veg Noodles+Chicken Manchuria (1).jpg",
         },
     
     ]
     const toppicks=[
         {
             id:60,
-            title:"Mushroom Soup",
+            title:"Fish Pulusu",
             price:19,
            
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Fish Pulusu.jpg",
         },
         {
             id:61,
-            title:"Mushroom Soup",
+            title:"Veg Thali",
             price:19,
            
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Veg Thali.jpg",
         },
         {
             id:62,
-            title:"Mushroom Soup",
+            title:"Mutton Burger",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mutton burger.jpg",
         },
     
     ]

@@ -12,7 +12,8 @@ function Cart1() {
         removeItem,
         emptyCart,
     }=useCart();
-    if(isEmpty) return <h1 className="text-center">Your Cart is Empty</h1>
+    if(isEmpty) return (
+        <div><h1 className="text-center1">Your Cart is Empty</h1><img src="https://thumbs.gfycat.com/SpottedBriskDuckbillplatypus-max-1mb.gif" className="cart_img" style={{width:"15%"}}/></div>)
 
         return (
             <section className="py-4 container-fluid col-12 col-sm-12" id="cart1" >

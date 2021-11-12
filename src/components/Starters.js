@@ -9,28 +9,28 @@ function Starters() {
             id:1,
             title:"Mushroom Soup ",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mushroom soup.jpg",
            
         },
         {
             id:2,
             title:"Veg Manchurian ",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/veg-manchurian.jpg",
            
         },
         {
             id:3,
             title:"Panneer 65",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/panneeer 65.jpg",
            
         },
         {
             id:4,
             title:"Gobi 65",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/gobi 65.jpg",
            
         },
     ];
@@ -39,28 +39,28 @@ function Starters() {
             id:5,
             title:"Chicken Lollipop",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/chicken lollipop.jpg",
            
         },
         {
             id:6,
             title:"Omlette",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/egg omlette.png",
            
         },
         {
             id:7,
             title:"Meat Balls ",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/meat ball.jpg",
            
         },
         {
             id:8,
             title:"Prawn Fry",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/chilli fried prawns.jpg",
            
         },
 

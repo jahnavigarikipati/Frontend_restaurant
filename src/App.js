@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+// import "./components/js.js";
 import Navbar from "./components/Navbar";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
@@ -14,6 +15,7 @@ import FastFoods from "./components/FastFoods";
 import Beverages from "./components/Beverages";
 import Refreshments from "./components/Refreshments";
 import Cart1 from "./components/Cart1";
+import NotFound from "./components/NotFound";
 import {CartProvider} from "react-use-cart";
 
 
@@ -31,7 +33,7 @@ function App() {
           <Footer />
         </Route>
        
-        <Route exact path="/previous orders">
+        <Route exact path="/previousorders">
           <PreviousOrders />
         </Route>
         
@@ -67,7 +69,7 @@ function App() {
        
         </CartProvider>
         
-      
+      <Route component={NotFound} />
       </Switch>
      
   </BrowserRouter>

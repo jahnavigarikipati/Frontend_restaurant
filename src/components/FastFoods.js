@@ -6,60 +6,60 @@ function FastFoods() {
     const vfastfoods=[
         {
             id:33,
-            title:"Mushroom Soup",
+            title:"Mushroom Burger",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/veg-burger.jpg",
         
         },
         {
             id:34,
-            title:"Veg Manchurian",
+            title:"Panneer Pizza",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/Pizza.jpg",
         
         },
         {
             id:35,
-            title:"Panneer 65",
+            title:"Veg Noodles",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/veg noodles.jpg",
         
         },
         {
             id:36,
-            title:"Gobi 65",
+            title:"French Fries",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/French Fries.jpg",
         
         },
     ];
     const nvfastfoods=[
         {
             id:37,
-            title:"Chicken Lollipop",
+            title:"Chicken Kebab",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/chicken leg piece (1).jpg",
         
         },
         {
             id:38,
-            title:"Omlette",
+            title:"Egg Noodles",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/egg noodles.jpg",
         
         },
         {
             id:39,
-            title:"Meat Balls",
+            title:"Fish Sandwich",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/fish sandwich.jpg",
         
         },
         {
             id:40,
-            title:"Prawn Fry",
+            title:"Mutton Burger",
             price:19,
-            imageUrl:"https://storage.googleapis.com/zopsmart-uploads/originals/20181205/ChineseSpecialCombo-20181205-021543.png",
+            imageUrl:"assets/mutton burger.jpg",
         
         },
 
